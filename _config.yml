@@ -1,4 +1,19 @@
-analytics: {}
+name: christianleon
+favicon: null
+layout_spectrum: 0.576576
+typography_spectrum: 0.407657
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -8,11 +23,9 @@ color:
     - '#F4F482'
   brandStrength: 0.503285509642589
   lightness: 0.8171817865321753
-  rhythmicContrast: 0.6490587226316604
   saturation: 0.32026725805239253
-cta: {}
-layout_spectrum: 0.576576
-name: christianleon
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.407657
+  rhythmicContrast: 0.6490587226316604
+purpose:
+  - name: null
+    item: null
+    url: null
