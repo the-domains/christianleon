@@ -1,19 +1,4 @@
-name: christianleon
-favicon: null
-layout_spectrum: 0.576576
 typography_spectrum: 0.407657
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,7 +10,20 @@ color:
   lightness: 0.8171817865321753
   saturation: 0.32026725805239253
   rhythmicContrast: 0.6490587226316604
-purpose:
-  - name: null
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.576576
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: christianleon
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: AI Designed
+purpose: []
